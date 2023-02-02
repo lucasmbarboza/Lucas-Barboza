@@ -32,6 +32,10 @@ Hi! My name is Lucas. I'm a Network Engineer very interested in Software Develop
 
 ---
 
+## 📝 Blog
+
+Check my adventures on my personal blog [**here**](https://github.com/lucasmbarboza/blog-lmendesb/blob/main/Terraform-vSphere/Terraform-vSphere.md)!
+
 <!---
 lucasmbarboza/lucasmbarboza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
