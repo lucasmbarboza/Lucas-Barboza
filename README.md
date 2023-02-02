@@ -1,6 +1,6 @@
 # Hello World!
 
-Hi! My name is Lucas. I'm a Network Engineer very interested in Software Development and Infrastructure Security & Software Security
+Hi! My name is Lucas. I'm a Network Engineer very interested in Software Development and Infrastructure Security & Software Security.
 
 # 🛠️ Technologies & Tools
 
