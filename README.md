@@ -38,6 +38,10 @@ Hi! My name is Lucas. I'm a Network Engineer very interested in Software Develop
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+### Cloud Computing <br/>
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)
+
 ## 📝 Blog
 
 Check my adventures on my personal blog [**here**](https://github.com/lucasmbarboza/blog-lmendesb/blob/main/Terraform-vSphere/Terraform-vSphere.md)!
